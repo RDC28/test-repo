@@ -1,0 +1,35 @@
+.container1{
+    background-color: #747272;
+    color: #ccc;
+    border: #ddd 2px solid;
+    justify-content: space-evenly;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+.container2{
+    background-color: yellow;
+    color: red;
+    width: 10vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.main-container{
+    padding: 10px;
+    margin: 10px;
+}
+
+h1{
+    color: pink;
+}
+
+marquee{
+    color: white;
+    background-color: black;
+}
+
+body{
+    background-color: black;
+}
